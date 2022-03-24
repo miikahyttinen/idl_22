@@ -2,4 +2,5 @@
 **/.ipynb_checkpoints/*
 # data folders can be quite large, ignoring them
 **/data/*
+**/data_organized/*
 **/.vector_cache/*
